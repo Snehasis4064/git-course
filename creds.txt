@@ -1,2 +1,0 @@
-user name  = snehasis123
-pWD = aw321
